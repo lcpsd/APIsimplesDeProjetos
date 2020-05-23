@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center"> Simple Projects API </h1>
+  <h1 align="center"> Api Simples de Projetos </h1>
   <p>Projeto api simples que registra projetos e tarefas para os mesmos.</p>
   <table>
     <tbody><tr>
